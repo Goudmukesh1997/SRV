@@ -1,5 +1,5 @@
-public class Git1 {
-    integer a = 500;
+public class Code1 {
+    integer a = 900;
     integer b = 900;
     integer c;
     public void add(){
