@@ -1,0 +1,10 @@
+public class Git1 {
+    integer a = 500;
+    integer b = 900;
+    integer c;
+    public void add(){
+        c = a+b;
+        system.debug(c);
+    }
+
+}
