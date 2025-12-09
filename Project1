@@ -1,0 +1,7 @@
+Integer A = 400;
+Integer B = 500;
+Integer c;
+public integer add(){
+    c = A + B;
+    return c;
+}
